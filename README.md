@@ -1,8 +1,8 @@
-# [JaecheolCoin](https://github.com/jcgod413/JaecheolCoin)
+# [SoongsillCoin](https://github.com/Chainerator/SoongsillCoin)
 
 
-## What is JaecheolCoin?
-This project is a project that has analyzed and copied Bitcoin's operating principles and implemented directly as Node.js. JaecheolCoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. 
+## What is SoongsillCoin?
+This project is a project that has analyzed and copied Bitcoin's operating principles and implemented directly as Node.js. SoongsillCoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. 
 
 
 ## How to run
